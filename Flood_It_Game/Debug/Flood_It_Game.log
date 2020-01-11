@@ -1,0 +1,10 @@
+﻿  FloodIt.cpp
+C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood_It_Game\Flood_It_Game\FloodIt.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+  Generating Code...
+C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood_It_Game\Flood_It_Game\FloodIt.cpp(360,28): warning C4805: '==': unsafe mix of type '_Ty' and type 'bool' in operation
+C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood_It_Game\Flood_It_Game\FloodIt.cpp(360,28): warning C4805:         with
+C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood_It_Game\Flood_It_Game\FloodIt.cpp(360,28): warning C4805:         [
+C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood_It_Game\Flood_It_Game\FloodIt.cpp(360,28): warning C4805:             _Ty=int
+C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood_It_Game\Flood_It_Game\FloodIt.cpp(360,28): warning C4805:         ]
+  Flood_It_Game.vcxproj -> C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood_It_Game\Debug\Flood_It_Game.exe
