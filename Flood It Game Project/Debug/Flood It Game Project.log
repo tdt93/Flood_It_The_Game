@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood It Game Project\Flood It Game Project\Source.cpp(200,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood It Game Project\Flood It Game Project\Source.cpp(202,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood It Game Project\Flood It Game Project\Source.cpp(204,28): warning C4805: '==': unsafe mix of type '_Ty' and type 'bool' in operation
+C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood It Game Project\Flood It Game Project\Source.cpp(204,28): warning C4805:         with
+C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood It Game Project\Flood It Game Project\Source.cpp(204,28): warning C4805:         [
+C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood It Game Project\Flood It Game Project\Source.cpp(204,28): warning C4805:             _Ty=int
+C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood It Game Project\Flood It Game Project\Source.cpp(204,28): warning C4805:         ]
+C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood It Game Project\Flood It Game Project\Source.cpp(236,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood It Game Project\Flood It Game Project\Source.cpp(386,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood It Game Project\Flood It Game Project\Source.cpp(380,6): warning C4101: 'temp': unreferenced local variable
+  Flood It Game Project.vcxproj -> C:\Users\Thang\Desktop\3rd year\1sr sem\Object-Oriented Programming Language\Flood It Game Project\Debug\Flood It Game Project.exe
